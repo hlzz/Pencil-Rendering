@@ -1,0 +1,29 @@
+gbuffer:
+
+gbuffer:
+
+program:
+
+npr:
+
+npr:
+0(10) : warning C7011: implicit cast from "int" to "float"
+0(61) : warning C7011: implicit cast from "int" to "float"
+0(62) : warning C7011: implicit cast from "int" to "float"
+0(63) : warning C7011: implicit cast from "int" to "float"
+
+program:
+Fragment info
+-------------
+0(10) : warning C7011: implicit cast from "int" to "float"
+0(61) : warning C7011: implicit cast from "int" to "float"
+0(62) : warning C7011: implicit cast from "int" to "float"
+0(63) : warning C7011: implicit cast from "int" to "float"
+0(42) : warning C7011: implicit cast from "int" to "float"
+
+curvature:
+
+curvature:
+
+program:
+

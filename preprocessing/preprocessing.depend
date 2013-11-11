@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1340552126 source:e:\programms\preprocessing\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+
