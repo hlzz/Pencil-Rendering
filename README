@@ -1,0 +1,14 @@
+可执行文件默认应用模型granade(手雷模型)，若需要其余模型效果，请见工程文件说明。
+实时控制操作：
+方向键 Up Down Left Right 移动视点
+A S D W 移动光源
+1/2 缩小/放大视点
+3/4 左/右旋转模型
+
+工程有三个部分：
+Pencil Rendering是主工程，包括了实时渲染系统
+PencilGenerate和preprocessing是离线预处理工程，其中PencilGenerate用于生成纹理，preprocessing用于生成模型主曲率方向。
+
+其他信息（工程配置信息等）包含在报告中。
+
+有三个obj可供观看，在Pencil Rendering的main.cpp文件中改变载入的obj文件名，分别是granade.obj、lamp.obj、hydr.obj,其中lamp.obj与其他两个模型的初始视点不同，可能进入以后看见一片白，用上下左右键进行调整。
