@@ -1,3 +1,10 @@
+Real-time Pencil Rendering
+
+This is a course project for Computer Graphics, lectured by Professor Sheng Li at Peking University, 2012. Basically we redo the work of Hyunjun Lee, who also helped us throughout the course project. The main reference for this project is 
+
+[1] Lee H, Kwon S, Lee S. Real-time pencil rendering[C]. Proceedings of the 4th international symposium on Non-photorealistic animation and rendering. ACM, 2006: 37-45.
+
+
 可执行文件默认应用模型granade(手雷模型)，若需要其余模型效果，请见工程文件说明。
 实时控制操作：
 方向键 Up Down Left Right 移动视点
